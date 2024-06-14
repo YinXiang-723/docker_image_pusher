@@ -1,2 +1,12 @@
-mysql:lastest
+ubuntu:bionic
 mysql:5.7
+rdefosseoai/oai-amf:latest
+rdefosseoai/oai-nrf:latest
+rdefosseoai/oai-spgwu-tiny:latest
+rdefosseoai/oai-smf:latest
+rdefosseoai/oai-udr:latest
+rdefosseoai/oai-udm:latest
+rdefosseoai/oai-ausf:latest
+rdefosseoai/oai-upf-vpp:latest
+rdefosseoai/oai-nssf:latest
+mysql
