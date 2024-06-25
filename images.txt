@@ -1,4 +1,9 @@
-
-oaisoftwarealliance/trf-gen-cn5g:latest
-
+oaisoftwarealliance/oai-amf:v1.5.0
+oaisoftwarealliance/oai-nrf:v1.5.0
+oaisoftwarealliance/oai-spgwu-tiny:v1.5.0
+oaisoftwarealliance/oai-smf:v1.5.0
+oaisoftwarealliance/oai-udr:v1.5.0
+oaisoftwarealliance/oai-udm:v1.5.0
+oaisoftwarealliance/oai-ausf:v1.5.0
+oaisoftwarealliance/oai-upf-vpp:v1.5.0
 
