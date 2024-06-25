@@ -1,14 +1,4 @@
-
-oaisoftwarealliance/oai-amf:v2.0.1
-oaisoftwarealliance/oai-nrf:v2.0.1
-oaisoftwarealliance/oai-upf:v2.0.1
-oaisoftwarealliance/oai-smf:v2.0.1
-oaisoftwarealliance/oai-udr:v2.0.1
-oaisoftwarealliance/oai-udm:v2.0.1
-oaisoftwarealliance/oai-ausf:v2.0.1
-oaisoftwarealliance/oai-upf-vpp:v2.0.1
-oaisoftwarealliance/oai-nssf:v2.0.1
-oaisoftwarealliance/oai-pcf:v2.0.1
+mysql 8.0
 oaisoftwarealliance/oai-nef:v2.0.1
 oaisoftwarealliance/trf-gen-cn5g:latest
 
