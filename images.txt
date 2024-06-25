@@ -1,4 +1,4 @@
-mysql 8.0
+mysql:8.0
 oaisoftwarealliance/oai-nef:v2.0.1
 oaisoftwarealliance/trf-gen-cn5g:latest
 
