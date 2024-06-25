@@ -1,11 +1,15 @@
 
-rdefosseoai/oai-amf:latest
-rdefosseoai/oai-nrf:latest
-rdefosseoai/oai-spgwu-tiny:latest
-rdefosseoai/oai-smf:latest
-rdefosseoai/oai-udr:latest
-rdefosseoai/oai-udm:latest
-rdefosseoai/oai-ausf:latest
-rdefosseoai/oai-upf-vpp:latest
-rdefosseoai/oai-nssf:latest
+oaisoftwarealliance/oai-amf:v2.0.1
+oaisoftwarealliance/oai-nrf:v2.0.1
+oaisoftwarealliance/oai-upf:v2.0.1
+oaisoftwarealliance/oai-smf:v2.0.1
+oaisoftwarealliance/oai-udr:v2.0.1
+oaisoftwarealliance/oai-udm:v2.0.1
+oaisoftwarealliance/oai-ausf:v2.0.1
+oaisoftwarealliance/oai-upf-vpp:v2.0.1
+oaisoftwarealliance/oai-nssf:v2.0.1
+oaisoftwarealliance/oai-pcf:v2.0.1
+oaisoftwarealliance/oai-nef:v2.0.1
+oaisoftwarealliance/trf-gen-cn5g:latest
+
 
