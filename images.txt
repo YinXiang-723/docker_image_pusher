@@ -1,15 +1,16 @@
+mysql:9.0.1
+mysql:8.4.2
 
+#oaisoftwarealliance/oai-amf:v2.1.0
+#oaisoftwarealliance/oai-nrf:v2.1.0
+#oaisoftwarealliance/oai-upf:v2.1.0
+#oaisoftwarealliance/oai-smf:v2.1.0
+#oaisoftwarealliance/oai-udr:v2.1.0
+#oaisoftwarealliance/oai-udm:v2.1.0
+#oaisoftwarealliance/oai-ausf:v2.1.0
+#oaisoftwarealliance/oai-upf-vpp:v2.1.0
+#oaisoftwarealliance/oai-nssf:v2.1.0
+#oaisoftwarealliance/oai-pcf:v2.1.0
+#oaisoftwarealliance/oai-lmf:v2.1.0
 
-oaisoftwarealliance/oai-amf:v2.1.0
-oaisoftwarealliance/oai-nrf:v2.1.0
-oaisoftwarealliance/oai-upf:v2.1.0
-oaisoftwarealliance/oai-smf:v2.1.0
-oaisoftwarealliance/oai-udr:v2.1.0
-oaisoftwarealliance/oai-udm:v2.1.0
-oaisoftwarealliance/oai-ausf:v2.1.0
-oaisoftwarealliance/oai-upf-vpp:v2.1.0
-oaisoftwarealliance/oai-nssf:v2.1.0
-oaisoftwarealliance/oai-pcf:v2.1.0
-oaisoftwarealliance/oai-lmf:v2.1.0
-
-oaisoftwarealliance/trf-gen-cn5g:latest
+#oaisoftwarealliance/trf-gen-cn5g:latest
